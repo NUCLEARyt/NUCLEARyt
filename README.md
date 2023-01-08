@@ -1,2 +1,1 @@
-- 👋 ayy am nukey
-- rest is unknown...
+harcode fam
